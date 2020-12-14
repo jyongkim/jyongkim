@@ -34,4 +34,4 @@
 
 [twitter]: https://twitter.com/jonathanyongkim
 [instagram]: https://www.instagram.com/jonathanyongkim/
-[linkedin]: https://www.instagram.com/jonathanyongkim/
+[linkedin]: https://www.linkedin.com/in/jonathanyongkim/
