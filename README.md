@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan 👋 GL HF!
+### Hi there, I'm Jonathan 👋
 
 - 🌱 I’m currently learning everything 🤣.
 - 👨‍💻 But focusing on Python and JavaScript.
