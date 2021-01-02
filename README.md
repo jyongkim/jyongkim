@@ -7,7 +7,21 @@
 
 ### GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<jyongkim>&theme=<THEME_NAME>" />
+<a href="https://github.com/jyongkim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/jyongkim/jyongkim">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/jyongkim/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyongkim&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/jyongkim/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jyongkim&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 ### Connect with me:
 
