@@ -7,7 +7,7 @@
 
 ### GitHub Stats:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<jyongkim>&theme=<THEME_NAME>" />
 
 ### Connect with me:
 
