@@ -1,7 +1,7 @@
 ### Hi there, I'm Jonathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 - 🌱 I’m currently learning everything 🤣.
-- 👨‍💻 But focusing on Python and JavaScript.
+- 👨‍💻 But focusing on JavaScript and Python.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
