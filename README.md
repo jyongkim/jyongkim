@@ -43,5 +43,5 @@
 ---
 
 [twitter]: https://twitter.com/jonathanyongkim
-[instagram]: https://www.instagram.com/jonathanyongkim/
+[instagram]: https://www.instagram.com/jonyonkim/
 [linkedin]: https://www.linkedin.com/in/jonathanyongkim/
