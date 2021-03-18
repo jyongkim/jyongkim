@@ -1,3 +1,4 @@
+CSS: styles.css
 ### Hi there, I'm Jonathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 - 🌱 I’m currently learning everything 🤣.
@@ -8,10 +9,10 @@
 ### GitHub Stats:
 
 <a href="https://github.com/jyongkim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/jyongkim/jyongkim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
 </a> 
 
 ### Connect with me:
