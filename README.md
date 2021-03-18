@@ -15,11 +15,9 @@
 </a> 
 
 ### Connect with me:
-<div style="background-color:blue;">
   [<img align="left" alt="jonathanyongkim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
   [<img align="left" alt="jonathanyongkim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="jonathanyongkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</div>
 <br />
 
 ### Languages and Tools:
