@@ -15,7 +15,7 @@
 </a> 
 
 ### Connect with me:
-  [<img align="left" alt="jonathanyongkim | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/49/49364.png" />][instagram]
+  [<img align="left" alt="jonathanyongkim | Instagram" width="22px" src="https://www.kindpng.com/imgv/hJmmRhJ_ig-icon-instagram-logo-black-jpg-hd-png/" />][instagram]
   [<img align="left" alt="jonathanyongkim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
   [<img align="left" alt="jonathanyongkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
