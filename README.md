@@ -8,16 +8,18 @@
 ### GitHub Stats:
 
 <a href="https://github.com/jyongkim">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/jyongkim/jyongkim">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=33&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
 </a> 
 
 ### Connect with me:
-  [<img align="left" alt="jonathanyongkim | Instagram" width="22px" src="https://www.kindpng.com/picc/m/488-4886831_ig-icon-instagram-logo-black-jpg-hd-png.png" />][instagram]
-  [<img align="left" alt="jonathanyongkim | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/60/60580.png" />][twitter]
-  [<img align="left" alt="jonathanyongkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="jonathanyongkim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jonathanyongkim | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jonathanyongkim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <br />
 
 ### Languages and Tools:
