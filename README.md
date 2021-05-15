@@ -1,4 +1,4 @@
-### Hi there, I'm Jonathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
+#### Hi there, I'm Jonathan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 - 🌱 I’m currently learning everything 🤣.
 - 👨‍💻 But focusing on JavaScript and Python.
