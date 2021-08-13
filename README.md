@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning everything! 🤣
 - 👨‍💻 But focusing on JavaScript and Python.
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
-- 📫 How to reach me **jonathankim86@gmail.com**.
-- ⚡ Hobbies: **I love to climb and do calisthenics**.
+- ⚡ Hobbies: **I love to climb, calisthenics and GG!**.
 
 ## 🚀 Languages and Tools:
 
