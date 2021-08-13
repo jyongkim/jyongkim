@@ -34,14 +34,11 @@
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
     <a href="https://github.com/jyongkim/jyongkim">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=22&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
     </a>
    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
-<br/>
-
-<img alt="Jonathan Kim's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jyongkim&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 
 <p align="center">
