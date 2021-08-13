@@ -27,11 +27,6 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> </a> 
 
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jonathan Kim's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jyongkim&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ## 📊 My Github Stats
   <br/>
 <p align="center">
@@ -39,7 +34,7 @@
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
     <a href="https://github.com/jyongkim/jyongkim">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=22&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
     </a>
    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
