@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything! 🤣
 - 👨‍💻 But focusing on JavaScript and Python.
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
-- ⚡ Hobbies: **I love to climb, calisthenics and GG!**.
+- ⚡ Hobbies: **I love to climb, calisthenics and books!**.
 
 ## 🚀 Languages and Tools:
 
