@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **[Data Warehouse](https://github.com/jyongkim/dataWarehouse)**.
 - 🌱 I’m currently learning everything! 🤣
-- 👨‍💻 But focusing on JavaScript and Python.
+- 👨‍💻 But focusing on JavaScript, C# and Python.
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 - ⚡ Hobbies: **I love to climb, calisthenics and philosophy**.
 
