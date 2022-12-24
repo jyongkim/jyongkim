@@ -35,11 +35,11 @@
 ## 📊 My Github Stats
   <br/>
 <p align="center">
-    <a href="https://github.com/jyongkim">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyongkim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+    <a href="https://github.com/svt86">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svt86,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
     </a>
-    <a href="https://github.com/jyongkim/jyongkim">
-    <img src="https://github-readme-stats.vercel.app/api?username=jyongkim&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jonathan's GitHub Stats" />
+    <a href="https://github.com/svt86/svt86">
+    <img src="https://github-readme-stats.vercel.app/api?username=svt86&show_icons=true&line_height=26&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SVT86's GitHub Stats" />
     </a>
    <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
